@@ -1,0 +1,3 @@
+9169 emp1 Islamabad cont1 Postman
+5724 emp2 Islamabad cont2 AccountOfficer
+9718 emp3 g11/3 cont3 Clerk
