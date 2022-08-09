@@ -1,5 +1,5 @@
 # OOP-Project
-Pakistan Post Service
+Pakistan Post Service Project
 
 ![CL1004_OOP_Project_statemnet_page-0001](https://user-images.githubusercontent.com/73307548/183736692-1a9739c9-d2f5-47b1-b96b-f8836e6c04d3.jpg)
 ![CL1004_OOP_Project_statemnet_page-0002](https://user-images.githubusercontent.com/73307548/183736701-01d09309-ba17-4c18-b6c1-6081d2487c1b.jpg)
